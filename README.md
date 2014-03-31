@@ -11,6 +11,8 @@ Example image:
 
 It is also possible to use a value from the attribution of your data which you may want to do in order to extrude each building with its unique height value. To do this, replace the literal tags with PropertyName tags and include the relevant field name from your data's attribute table.
 
+It's also cool to play around with the colour and opacity values.
+
 ======================
 
 Other sources of information:
