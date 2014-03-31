@@ -9,7 +9,7 @@ Example image:
 
 ![Example](https://raw.githubusercontent.com/charleyglynn/Extruded-buildings-SLD/master/extruded-buildings.png)
 
-It is also possible to use a value from the attribution of your data which you may want to do in order to extrude each building with its unique height value. To do this, replace literal tags with PropertyName tags and include the relevant field name from your datas attribute table.
+It is also possible to use a value from the attribution of your data which you may want to do in order to extrude each building with its unique height value. To do this, replace the literal tags with PropertyName tags and include the relevant field name from your data's attribute table.
 
 ======================
 
