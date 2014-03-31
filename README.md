@@ -5,6 +5,10 @@ Styled Layer Descriptor (SLD) code for creating a pseudo-3D building effect in G
 
 ======================
 
+Example image:
+
+![Example](https://raw.githubusercontent.com/charleyglynn/Extruded-buildings-SLD/master/extruded-buildings.png)
+
 Other sources of information:
 
 [http://www.maptags.de/?p=148](http://www.maptags.de/?p=148)
